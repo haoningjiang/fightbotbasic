@@ -1,1 +1,1 @@
-worker: python bot/fightbot.py
+worker: python3 bot/fightbot.py
